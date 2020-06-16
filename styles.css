@@ -1,0 +1,18 @@
+div {
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    margin: 5px;
+}
+
+body {
+    display:flex;
+    flex-flow: column wrap;
+    min-width: 320px;
+    background-color: rgb(229, 226, 226);
+    margin-bottom: 10px;
+}
+
+#MyDay {
+    background-color: rgb(229, 226, 226);
+}
